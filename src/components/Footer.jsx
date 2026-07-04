@@ -7,7 +7,7 @@ function Footer() {
 
       <div className="footer-top">
 
-        <h2>Student Portfolio</h2>
+        <h2>Student Portfolio..</h2>
 
         <p>
           Building modern web applications with creativity,
