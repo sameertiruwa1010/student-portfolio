@@ -16,7 +16,7 @@ function Hero() {
         <h3>Hello 👋</h3>
 
         <h1>
-          I'm <span>SAMEER</span>
+          I'm <span>SAMIP</span>
         </h1>
 
         <h2>
